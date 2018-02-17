@@ -1,0 +1,30 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "fd50ca4e-ab40-4aa0-85ba-bc7c54a735d2"
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "autocomplete-plus"
+      "autocomplete-snippets"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "spacegray-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "cce5cfa1-920b-498d-9022-1c0df9e2ccd0"
+  kite:
+    editorMetricsEnabled: "yes"
+    showDocsNotificationOnStartup: false
+  "linter-ui-default": {}
+  minimap:
+    absoluteMode: true
+  "python-autopep8":
+    formatOnSave: true
+  welcome:
+    showOnStartup: false
